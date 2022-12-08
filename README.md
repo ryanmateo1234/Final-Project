@@ -14,7 +14,7 @@ A simple retro game that everyone played with a twist of computer science to it!
 Hangman is a guessing game in which the objective of the player is to find out the hidden word. Every incorrect guess leads to the decrement of the chances left for the player. The chances left are represented in the form of a hanging man.
 
 
-#Youtube Link 
+# Youtube Link 
 Go watch and support the youtube video: https://youtu.be/fDiP0p-8L6Y
 
 
